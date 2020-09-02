@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mayur/college/thesis/chatbot/flask/model.tflearn"
+all_model_checkpoint_paths: "/home/mayur/college/thesis/chatbot/flask/model.tflearn"
